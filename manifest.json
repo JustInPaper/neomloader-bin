@@ -1,16 +1,16 @@
 {
-  "version": "1.0.5",
-  "build_number": 105,
-  "commit_sha": "7795f406d000e0942b20ba0aed7f472afd8f4f74",
-  "updated_at": "2026-09-26T08:17:24.984747+00:00",
+  "version": "1.0.6",
+  "build_number": 106,
+  "commit_sha": "254a441e19f12316c67b89e5ab378fb40df2c875",
+  "updated_at": "2026-09-26T08:33:00.000000+00:00",
   "binary": {
     "url": "https://raw.githubusercontent.com/JustInPaper/neomloader-bin/main/libNeoMLoader.so",
-    "sha256": "4ff1379c5300670c3ac3be2368b708b8554f0d6c37cdb24ff96e71b9642b198d",
-    "size": 9447392
+    "sha256": "7488c3810daf601bafa4d2b62e7cb691c322d116cae56a2bb131c894dd58f4b4",
+    "size": 9447456
   },
   "libstd": {
     "version": "1.0.2",
     "zip_url": "https://github.com/neomloader/libstd/archive/refs/heads/main.zip"
   },
-  "changelog": "Fixed SIGSEGV crash in ImGui child window handling when draw list command buffer is empty"
+  "changelog": "Fixed SIGSEGV crash in ImDrawList and ImGui::Begin when draw list command buffer is empty"
 }

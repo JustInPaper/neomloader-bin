@@ -2,15 +2,15 @@
   "version": "1.0.6",
   "build_number": 106,
   "commit_sha": "254a441e19f12316c67b89e5ab378fb40df2c875",
-  "updated_at": "2026-09-26T10:10:49.511876+00:00",
+  "updated_at": "2026-09-26T10:37:38.134598+00:00",
   "binary": {
     "url": "https://raw.githubusercontent.com/JustInPaper/neomloader-bin/main/libNeoMLoader.so",
-    "sha256": "91129b84c77bb84742e940d22a1343e2198289b8c0d07bdf11cd3818fcbfe9cf",
-    "size": 9447424
+    "sha256": "e963667f946ed7993d3da4fad76dc4b8ad204385c225dac0722c22284f736323",
+    "size": 9448400
   },
   "libstd": {
     "version": "1.0.2",
     "zip_url": "https://github.com/neomloader/libstd/archive/refs/heads/main.zip"
   },
-  "changelog": "Fixed SIGSEGV crash in ImDrawList and ImGui::Begin when draw list command buffer is empty"
+  "changelog": "Ensure default scripts (neom_updater.lua, scriptmgr.lua) are automatically deployed and loaded from lib"
 }

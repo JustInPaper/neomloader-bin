@@ -1,0 +1,16 @@
+{
+  "version": "1.0.4",
+  "build_number": 104,
+  "commit_sha": "7795f406d000e0942b20ba0aed7f472afd8f4f74",
+  "updated_at": "2026-09-26T05:24:05.064617+00:00",
+  "binary": {
+    "url": "https://raw.githubusercontent.com/JustInPaper/neomloader-bin/main/libNeoMLoader.so",
+    "sha256": "20f7bf758c54cf9c8413f84b1c6ede6e0c354f778229c78603d13788219d98a5",
+    "size": 9447392
+  },
+  "libstd": {
+    "version": "1.0.2",
+    "zip_url": "https://github.com/neomloader/libstd/archive/refs/heads/main.zip"
+  },
+  "changelog": "Fixed ImGui window state persistence, unified engine launcher support"
+}

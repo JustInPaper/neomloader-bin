@@ -1,8 +1,8 @@
 {
-  "version": "1.0.8",
-  "build_number": 108,
-  "commit_sha": "100d1ccc4ac2f44a3cddae41ba74d5ca1b4083ab",
-  "updated_at": "2026-09-26T19:59:56.600301+00:00",
+  "version": "1.0.9",
+  "build_number": 109,
+  "commit_sha": "34e6fdf10b924597b30bb91e04047441ace9de64",
+  "updated_at": "2026-09-26T20:24:18.502882+00:00",
   "binary": {
     "url": "https://raw.githubusercontent.com/JustInPaper/neomloader-bin/main/libNeoMLoader.so",
     "sha256": "5af93fe23fe95b74b025636c0c4ad96b33c86ed376df863cc127a9dc85b99f30",
@@ -12,5 +12,5 @@
     "version": "1.0.2",
     "zip_url": "https://github.com/neomloader/libstd/archive/refs/heads/main.zip"
   },
-  "changelog": "Sync standard library scripts and manifest"
+  "changelog": "Test"
 }

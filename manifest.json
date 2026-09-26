@@ -2,15 +2,15 @@
   "version": "1.0.6",
   "build_number": 106,
   "commit_sha": "254a441e19f12316c67b89e5ab378fb40df2c875",
-  "updated_at": "2026-09-26T10:37:38.134598+00:00",
+  "updated_at": "2026-09-26T10:44:21.894078+00:00",
   "binary": {
     "url": "https://raw.githubusercontent.com/JustInPaper/neomloader-bin/main/libNeoMLoader.so",
-    "sha256": "e963667f946ed7993d3da4fad76dc4b8ad204385c225dac0722c22284f736323",
-    "size": 9448400
+    "sha256": "b87312548f27f077a8d6028840d8eb2a8752cb4e00dd25c4e093940554ba06af",
+    "size": 9448384
   },
   "libstd": {
     "version": "1.0.2",
     "zip_url": "https://github.com/neomloader/libstd/archive/refs/heads/main.zip"
   },
-  "changelog": "Ensure default scripts (neom_updater.lua, scriptmgr.lua) are automatically deployed and loaded from lib"
+  "changelog": "Disable software mouse cursor drawing on mobile and ensure default scripts auto-deployment"
 }

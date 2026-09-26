@@ -1,16 +1,16 @@
 {
-  "version": "1.0.4",
-  "build_number": 104,
+  "version": "1.0.5",
+  "build_number": 105,
   "commit_sha": "7795f406d000e0942b20ba0aed7f472afd8f4f74",
-  "updated_at": "2026-09-26T05:24:05.064617+00:00",
+  "updated_at": "2026-09-26T08:17:24.984747+00:00",
   "binary": {
     "url": "https://raw.githubusercontent.com/JustInPaper/neomloader-bin/main/libNeoMLoader.so",
-    "sha256": "20f7bf758c54cf9c8413f84b1c6ede6e0c354f778229c78603d13788219d98a5",
+    "sha256": "4ff1379c5300670c3ac3be2368b708b8554f0d6c37cdb24ff96e71b9642b198d",
     "size": 9447392
   },
   "libstd": {
     "version": "1.0.2",
     "zip_url": "https://github.com/neomloader/libstd/archive/refs/heads/main.zip"
   },
-  "changelog": "Fixed ImGui window state persistence, unified engine launcher support"
+  "changelog": "Fixed SIGSEGV crash in ImGui child window handling when draw list command buffer is empty"
 }

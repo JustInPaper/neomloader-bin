@@ -1,16 +1,16 @@
 {
-  "version": "1.0.6",
-  "build_number": 106,
-  "commit_sha": "254a441e19f12316c67b89e5ab378fb40df2c875",
-  "updated_at": "2026-09-26T10:44:21.894078+00:00",
+  "version": "1.0.7",
+  "build_number": 107,
+  "commit_sha": "100d1ccc4ac2f44a3cddae41ba74d5ca1b4083ab",
+  "updated_at": "2026-09-26T19:39:44.033510+00:00",
   "binary": {
     "url": "https://raw.githubusercontent.com/JustInPaper/neomloader-bin/main/libNeoMLoader.so",
-    "sha256": "b87312548f27f077a8d6028840d8eb2a8752cb4e00dd25c4e093940554ba06af",
-    "size": 9448384
+    "sha256": "5af93fe23fe95b74b025636c0c4ad96b33c86ed376df863cc127a9dc85b99f30",
+    "size": 9446832
   },
   "libstd": {
     "version": "1.0.2",
     "zip_url": "https://github.com/neomloader/libstd/archive/refs/heads/main.zip"
   },
-  "changelog": "Disable software mouse cursor drawing on mobile and ensure default scripts auto-deployment"
+  "changelog": "Fix ImGui focus order crash and getPlayerMoney argument count"
 }

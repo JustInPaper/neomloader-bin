@@ -1,16 +1,16 @@
 {
-  "version": "1.0.10",
-  "build_number": 110,
-  "commit_sha": "76996c6ba7bec435f8f6adcfed8d0df70a5bdca2",
-  "updated_at": "2026-09-26T20:30:53.001765+00:00",
+  "version": "1.0.11",
+  "build_number": 111,
+  "commit_sha": "7bf064fbfe64a791087f0105c7bfdede2a4a787c",
+  "updated_at": "2026-09-27T01:53:19.163032+00:00",
   "binary": {
     "url": "https://raw.githubusercontent.com/JustInPaper/neomloader-bin/main/libNeoMLoader.so",
-    "sha256": "5af93fe23fe95b74b025636c0c4ad96b33c86ed376df863cc127a9dc85b99f30",
-    "size": 9446832
+    "sha256": "c31020af9832c83351625526813633446877278cf8ab7a1dee010ea5891bbb18",
+    "size": 9448592
   },
   "libstd": {
     "version": "1.0.2",
     "zip_url": "https://github.com/neomloader/libstd/archive/refs/heads/main.zip"
   },
-  "changelog": "Fix neom_updater mimgui binding, initial delay, and version tracking"
+  "changelog": "Test"
 }

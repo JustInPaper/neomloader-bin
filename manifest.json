@@ -1,16 +1,16 @@
 {
-  "version": "1.0.13",
-  "build_number": 113,
-  "commit_sha": "e42f5fad8f10696e90c7161124f887aadf7e5a3a",
-  "updated_at": "2026-09-29T03:27:11.329185+00:00",
+  "version": "1.0.14",
+  "build_number": 114,
+  "commit_sha": "a2be6d8b11aa8bc87ff86b370b1491ecf29cdc53",
+  "updated_at": "2026-09-29T17:43:13.466737+00:00",
   "binary": {
     "url": "https://raw.githubusercontent.com/JustInPaper/neomloader-bin/main/libNeoMLoader.so",
-    "sha256": "739fc6a98e5734d4b2d82ef538db14708042521ad7717b9b8305d6df9aad1437",
-    "size": 9497760
+    "sha256": "18004c86293aa779d81b3491a9687b4a3b19f84866f8d960175d72ee6f417aa9",
+    "size": 9498048
   },
   "libstd": {
     "version": "1.0.2",
     "zip_url": "https://github.com/neomloader/libstd/archive/refs/heads/main.zip"
   },
-  "changelog": "Hmm"
+  "changelog": "Fix UTF-8 double encoding in fastAnsiToUtf8 and clean Codepage1251"
 }

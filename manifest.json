@@ -1,16 +1,16 @@
 {
-  "version": "1.0.14",
-  "build_number": 114,
+  "version": "1.0.15",
+  "build_number": 115,
   "commit_sha": "a2be6d8b11aa8bc87ff86b370b1491ecf29cdc53",
-  "updated_at": "2026-09-29T17:43:13.466737+00:00",
+  "updated_at": "2026-09-29T17:55:12.751404+00:00",
   "binary": {
     "url": "https://raw.githubusercontent.com/JustInPaper/neomloader-bin/main/libNeoMLoader.so",
-    "sha256": "18004c86293aa779d81b3491a9687b4a3b19f84866f8d960175d72ee6f417aa9",
+    "sha256": "458b78c76b0e11f3d7ee2fee913d10a64dd2544ecbc36b0b373fd910236dae37",
     "size": 9498048
   },
   "libstd": {
     "version": "1.0.2",
     "zip_url": "https://github.com/neomloader/libstd/archive/refs/heads/main.zip"
   },
-  "changelog": "Fix UTF-8 double encoding in fastAnsiToUtf8 and clean Codepage1251"
+  "changelog": "Add CDN cache-busting and explicit build logging to neom_updater"
 }

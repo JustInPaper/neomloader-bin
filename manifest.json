@@ -1,16 +1,16 @@
 {
-  "version": "1.0.16",
-  "build_number": 116,
-  "commit_sha": "69d49d7f3395373cc9fb0d630c96d9618af87820",
-  "updated_at": "2026-09-29T21:22:40.655135+00:00",
+  "version": "1.0.17",
+  "build_number": 117,
+  "commit_sha": "2a295022596f4c0582318a65f6d7640eed6fa2fe",
+  "updated_at": "2026-10-04T04:05:06.347384+00:00",
   "binary": {
     "url": "https://raw.githubusercontent.com/JustInPaper/neomloader-bin/main/libNeoMLoader.so",
-    "sha256": "bcca18f15591d9872a667d10dfae94c6cff99e88e25cfd04ac65bfa910a50b5f",
-    "size": 9514400
+    "sha256": "e3cc315a312cdf4e6c60b183d1d52862284ca121a16720e23e17fe1533e4301f",
+    "size": 9307720
   },
   "libstd": {
     "version": "1.0.2",
     "zip_url": "https://github.com/neomloader/libstd/archive/refs/heads/main.zip"
   },
-  "changelog": "AAAAAAAA"
+  "changelog": "Fix memory mapping verification and module range bounds in findPattern"
 }

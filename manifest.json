@@ -1,16 +1,24 @@
 {
-  "version": "1.0.17",
-  "build_number": 117,
-  "commit_sha": "2a295022596f4c0582318a65f6d7640eed6fa2fe",
-  "updated_at": "2026-10-04T04:05:06.347384+00:00",
+  "version": "1.0.19",
+  "build_number": 119,
+  "commit_sha": "98d79eef06955c5072344582f13364f5ffaa09de",
+  "updated_at": "2026-10-05T18:26:10.950783+00:00",
   "binary": {
     "url": "https://raw.githubusercontent.com/JustInPaper/neomloader-bin/main/libNeoMLoader.so",
-    "sha256": "e3cc315a312cdf4e6c60b183d1d52862284ca121a16720e23e17fe1533e4301f",
+    "sha256": "e6a4fb6c4229a00adbbe6bcb89b139c3c0bf9f7df19dfe33fa2a5e6259916bfb",
     "size": 9307720
   },
   "libstd": {
     "version": "1.0.2",
     "zip_url": "https://github.com/neomloader/libstd/archive/refs/heads/main.zip"
   },
-  "changelog": "Fix memory mapping verification and module range bounds in findPattern"
+  "changelog": "Test",
+  "apk": {
+    "version": "v17.8.2",
+    "version_code": 1782,
+    "build_number": 119,
+    "url": "https://media.githubusercontent.com/media/JustInPaper/neomloader-bin/main/app-arizona-neomloader-patched.apk",
+    "sha256": "543c6a44387fd737244c345441d8f83364713d08adde0f67b9b7a6849d182dee",
+    "size": 180899096
+  }
 }

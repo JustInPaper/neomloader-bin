@@ -1,22 +1,22 @@
 {
-  "version": "1.0.19",
-  "build_number": 119,
-  "commit_sha": "98d79eef06955c5072344582f13364f5ffaa09de",
-  "updated_at": "2026-10-05T18:26:10.950783+00:00",
+  "version": "1.0.20",
+  "build_number": 120,
+  "commit_sha": "16dce035bbf0d557a768206a287c01976f174a84",
+  "updated_at": "2026-10-05T18:43:00.708324+00:00",
   "binary": {
     "url": "https://raw.githubusercontent.com/JustInPaper/neomloader-bin/main/libNeoMLoader.so",
-    "sha256": "e6a4fb6c4229a00adbbe6bcb89b139c3c0bf9f7df19dfe33fa2a5e6259916bfb",
+    "sha256": "548ae62a8c85ceee3dcbcf209c99743dcadbd0c725d5da458e42a93eb0b87ebf",
     "size": 9307720
   },
   "libstd": {
     "version": "1.0.2",
     "zip_url": "https://github.com/neomloader/libstd/archive/refs/heads/main.zip"
   },
-  "changelog": "Test",
+  "changelog": "Add dkjson module and pie menu fixes",
   "apk": {
     "version": "v17.8.2",
     "version_code": 1782,
-    "build_number": 119,
+    "build_number": 120,
     "url": "https://media.githubusercontent.com/media/JustInPaper/neomloader-bin/main/app-arizona-neomloader-patched.apk",
     "sha256": "543c6a44387fd737244c345441d8f83364713d08adde0f67b9b7a6849d182dee",
     "size": 180899096

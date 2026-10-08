@@ -1,24 +1,24 @@
 {
-  "version": "1.0.24",
-  "build_number": 124,
-  "commit_sha": "32ff7cfa05c06f2b13a182ef8373dfbf829f95ce",
-  "updated_at": "2026-10-07T19:03:19.399721+00:00",
+  "version": "1.0.25",
+  "build_number": 125,
+  "commit_sha": "efcf336f1ea6e1de20bc03d5c001361f81d31f65",
+  "updated_at": "2026-10-08T16:57:53.457455+00:00",
   "binary": {
     "url": "https://raw.githubusercontent.com/JustInPaper/neomloader-bin/main/libNeoMLoader.so",
-    "sha256": "4ac66ec9c0cfbc1aae151c212da87b3b70ebe9feac653924a4ee4f72f12ff18d",
+    "sha256": "fda89acdcc8eae43e0ddb680b9d08849233167b8418153db27f753b2cc2f8e16",
     "size": 9317080
   },
   "libstd": {
     "version": "1.0.2",
     "zip_url": "https://github.com/neomloader/libstd/archive/refs/heads/main.zip"
   },
-  "changelog": "Fix HTTP/HTTPS networking, redirects, default User-Agent, and native downloadUrlToFile",
+  "changelog": "Update base launcher to new release with 64-bit arm64-v8a and current libag-client.so",
   "apk": {
     "version": "v17.8.2",
     "version_code": 1782,
-    "build_number": 123,
+    "build_number": 124,
     "url": "https://media.githubusercontent.com/media/JustInPaper/neomloader-bin/main/app-arizona-neomloader-patched.apk",
-    "sha256": "5b34264d605b7ab23e123f980c00f59524e0f845c8bbdfb3335ec72ef08e31f6",
-    "size": 180911449
+    "sha256": "98b2ea3ac5c5efd6f2fc895e7b816546e4ea2a30accb69f4b07e6694a8217385",
+    "size": 180915629
   }
 }

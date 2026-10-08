@@ -1,18 +1,18 @@
 {
-  "version": "1.0.26",
-  "build_number": 126,
-  "commit_sha": "f512930dd7561354ac47c0740ddab9a90bcfeecb",
-  "updated_at": "2026-10-08T17:49:03.385044+00:00",
+  "version": "1.0.27",
+  "build_number": 127,
+  "commit_sha": "84bc7b65f22566d846e9223b72c9d753256037be",
+  "updated_at": "2026-10-08T18:04:54.780394+00:00",
   "binary": {
     "url": "https://raw.githubusercontent.com/JustInPaper/neomloader-bin/main/libNeoMLoader.so",
-    "sha256": "9bb70d6b96b5a3f3f4ecb3ac6e2232db1aaf347c6f419fe4cb9435ad539af38a",
+    "sha256": "78cd3ee1f9df5c7f3c0901de228270bb26e4cffffd945097ddb6a85745b0c57a",
     "size": 9318792
   },
   "libstd": {
     "version": "1.0.2",
     "zip_url": "https://github.com/neomloader/libstd/archive/refs/heads/main.zip"
   },
-  "changelog": "Fix imgui.ini dangling pointer, bump launcher to v17.8.9 with forced update bypass, and add vehicle testing suite",
+  "changelog": "Release v1.0.27: version bump for update delivery",
   "apk": {
     "version": "v17.8.9",
     "version_code": 1789,

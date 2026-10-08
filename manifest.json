@@ -16,9 +16,9 @@
   "apk": {
     "version": "v17.8.9",
     "version_code": 1789,
-    "build_number": 125,
+    "build_number": 127,
     "url": "https://media.githubusercontent.com/media/JustInPaper/neomloader-bin/main/app-arizona-neomloader-patched.apk",
-    "sha256": "385ef8e159a179d3818c8e88050f3e35be3e0690d928093e251195f06a34bdc3",
+    "sha256": "343d8ee2ff8d6ef742599e00a6e1d720ba3d1236490e8a3d674b0f41e074f37d",
     "size": 180919725
   }
 }

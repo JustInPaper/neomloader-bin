@@ -1,24 +1,24 @@
 {
-  "version": "1.0.25",
-  "build_number": 125,
-  "commit_sha": "efcf336f1ea6e1de20bc03d5c001361f81d31f65",
-  "updated_at": "2026-10-08T16:57:53.457455+00:00",
+  "version": "1.0.26",
+  "build_number": 126,
+  "commit_sha": "f512930dd7561354ac47c0740ddab9a90bcfeecb",
+  "updated_at": "2026-10-08T17:49:03.385044+00:00",
   "binary": {
     "url": "https://raw.githubusercontent.com/JustInPaper/neomloader-bin/main/libNeoMLoader.so",
-    "sha256": "fda89acdcc8eae43e0ddb680b9d08849233167b8418153db27f753b2cc2f8e16",
-    "size": 9317080
+    "sha256": "9bb70d6b96b5a3f3f4ecb3ac6e2232db1aaf347c6f419fe4cb9435ad539af38a",
+    "size": 9318792
   },
   "libstd": {
     "version": "1.0.2",
     "zip_url": "https://github.com/neomloader/libstd/archive/refs/heads/main.zip"
   },
-  "changelog": "Update base launcher to new release with 64-bit arm64-v8a and current libag-client.so",
+  "changelog": "Fix imgui.ini dangling pointer, bump launcher to v17.8.9 with forced update bypass, and add vehicle testing suite",
   "apk": {
-    "version": "v17.8.2",
-    "version_code": 1782,
-    "build_number": 124,
+    "version": "v17.8.9",
+    "version_code": 1789,
+    "build_number": 125,
     "url": "https://media.githubusercontent.com/media/JustInPaper/neomloader-bin/main/app-arizona-neomloader-patched.apk",
-    "sha256": "98b2ea3ac5c5efd6f2fc895e7b816546e4ea2a30accb69f4b07e6694a8217385",
-    "size": 180915629
+    "sha256": "385ef8e159a179d3818c8e88050f3e35be3e0690d928093e251195f06a34bdc3",
+    "size": 180919725
   }
 }

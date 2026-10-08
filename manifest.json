@@ -12,13 +12,13 @@
     "version": "1.0.2",
     "zip_url": "https://github.com/neomloader/libstd/archive/refs/heads/main.zip"
   },
-  "changelog": "Fix crash on enter caused by missing RequestHudLayout implementation",
+  "changelog": "Improve update flow, fix update check loop and APK install permissions",
   "apk": {
     "version": "v17.8.9",
     "version_code": 1789,
     "build_number": 127,
     "url": "https://media.githubusercontent.com/media/JustInPaper/neomloader-bin/main/app-arizona-neomloader-patched.apk",
-    "sha256": "b2411cdf430882a4691c531cf657ad6d40d328a2603a2b46ebc8860a9762b7c4",
+    "sha256": "498a86d322d7a74cb23ee53c2731faeda721ede55c968d4af8f38a80db69b842",
     "size": 180919725
   }
 }

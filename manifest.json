@@ -5,20 +5,20 @@
   "updated_at": "2026-10-08T18:04:54.780394+00:00",
   "binary": {
     "url": "https://raw.githubusercontent.com/JustInPaper/neomloader-bin/main/libNeoMLoader.so",
-    "sha256": "78cd3ee1f9df5c7f3c0901de228270bb26e4cffffd945097ddb6a85745b0c57a",
-    "size": 9318792
+    "sha256": "6fab3c052eb085a4829ee01a2f8e53c2630c2c028a6e1610ebe7039b86589dfe",
+    "size": 9318840
   },
   "libstd": {
     "version": "1.0.2",
     "zip_url": "https://github.com/neomloader/libstd/archive/refs/heads/main.zip"
   },
-  "changelog": "Release v1.0.27: version bump for update delivery",
+  "changelog": "Fix crash on enter caused by missing RequestHudLayout implementation",
   "apk": {
     "version": "v17.8.9",
     "version_code": 1789,
     "build_number": 127,
     "url": "https://media.githubusercontent.com/media/JustInPaper/neomloader-bin/main/app-arizona-neomloader-patched.apk",
-    "sha256": "343d8ee2ff8d6ef742599e00a6e1d720ba3d1236490e8a3d674b0f41e074f37d",
+    "sha256": "b2411cdf430882a4691c531cf657ad6d40d328a2603a2b46ebc8860a9762b7c4",
     "size": 180919725
   }
 }

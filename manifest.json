@@ -1,18 +1,18 @@
 {
-  "version": "1.0.28",
-  "build_number": 128,
-  "commit_sha": "08c18a615886f543f3bd1ab06e4310c2063d2243",
-  "updated_at": "2026-10-08T20:49:42.633119+00:00",
+  "version": "1.0.30",
+  "build_number": 130,
+  "commit_sha": "cd8762e1d9262b54ebbd7f3dac4269abddd1ee23",
+  "updated_at": "2026-10-10T19:27:34.093586+00:00",
   "binary": {
     "url": "https://raw.githubusercontent.com/JustInPaper/neomloader-bin/main/libNeoMLoader.so",
-    "sha256": "ede6e383b2ec62fbb1e4de76b5950d796d84c387343652f99ecc2366b764156f",
-    "size": 9318808
+    "sha256": "bc2e71f4d61ac531a1d9e296e34d5ae26712ab35bd73e1d88de976d0ec665b3e",
+    "size": 9319704
   },
   "libstd": {
     "version": "1.0.2",
     "zip_url": "https://github.com/neomloader/libstd/archive/refs/heads/main.zip"
   },
-  "changelog": "Fix",
+  "changelog": "fix",
   "apk": {
     "version": "v17.8.9",
     "version_code": 1789,

@@ -12,13 +12,13 @@
     "version": "1.0.2",
     "zip_url": "https://github.com/neomloader/libstd/archive/refs/heads/main.zip"
   },
-  "changelog": "fix: resolve UI flicker, chat scroll jitter, and missing mimgui release texture",
+  "changelog": "fix: resolve update loop caused by canary flag rollback and asset fallback",
   "apk": {
     "version": "v17.8.9",
     "version_code": 1789,
-    "build_number": 130,
+    "build_number": 131,
     "url": "https://media.githubusercontent.com/media/JustInPaper/neomloader-bin/main/app-arizona-neomloader-patched.apk",
-    "sha256": "37ba65d66b2801ba35b045db2893bd12495acb8e47ee4cab9915ea2a9fe610bf",
+    "sha256": "2f916405bd7da50254b9c133c5a7cb6f1b6e38e2830216fb182a4537ec012fc3",
     "size": 180919725
   }
 }

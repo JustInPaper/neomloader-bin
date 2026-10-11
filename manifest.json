@@ -1,18 +1,18 @@
 {
-  "version": "1.0.30",
-  "build_number": 130,
-  "commit_sha": "cd8762e1d9262b54ebbd7f3dac4269abddd1ee23",
-  "updated_at": "2026-10-10T20:10:20.000000+00:00",
+  "version": "1.0.31",
+  "build_number": 131,
+  "commit_sha": "df727c0030d5bdb031f4317d7da673f1f617476e",
+  "updated_at": "2026-10-11T02:41:19.853838+00:00",
   "binary": {
     "url": "https://raw.githubusercontent.com/JustInPaper/neomloader-bin/main/libNeoMLoader.so",
-    "sha256": "6c83bf82bc5b289290932fd25944511de1f7a75b31b908c3d105c3728e81eb80",
-    "size": 9319640
+    "sha256": "a991c8ed30132db415b4c9734e2492ac21b114071f922aad8c214a2a701cba15",
+    "size": 9319496
   },
   "libstd": {
     "version": "1.0.2",
     "zip_url": "https://github.com/neomloader/libstd/archive/refs/heads/main.zip"
   },
-  "changelog": "fix",
+  "changelog": "fix: resolve UI flicker, chat scroll jitter, and missing mimgui release texture",
   "apk": {
     "version": "v17.8.9",
     "version_code": 1789,

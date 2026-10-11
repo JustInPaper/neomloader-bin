@@ -1,18 +1,18 @@
 {
-  "version": "1.0.31",
-  "build_number": 131,
-  "commit_sha": "df727c0030d5bdb031f4317d7da673f1f617476e",
-  "updated_at": "2026-10-11T02:41:19.853838+00:00",
+  "version": "1.0.32",
+  "build_number": 132,
+  "commit_sha": "38ac6fa1e262813ef1d00dcfc5af2b84133fc944",
+  "updated_at": "2026-10-11T03:19:17.444492+00:00",
   "binary": {
     "url": "https://raw.githubusercontent.com/JustInPaper/neomloader-bin/main/libNeoMLoader.so",
-    "sha256": "a991c8ed30132db415b4c9734e2492ac21b114071f922aad8c214a2a701cba15",
+    "sha256": "9c9b053baf94865c432a22430caab24506e1435c3234c591011b8dc6e7ceeaab",
     "size": 9319496
   },
   "libstd": {
     "version": "1.0.2",
     "zip_url": "https://github.com/neomloader/libstd/archive/refs/heads/main.zip"
   },
-  "changelog": "fix: resolve update loop caused by canary flag rollback and asset fallback",
+  "changelog": "Fix",
   "apk": {
     "version": "v17.8.9",
     "version_code": 1789,

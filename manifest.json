@@ -5,8 +5,8 @@
   "updated_at": "2026-10-11T03:19:17.444492+00:00",
   "binary": {
     "url": "https://raw.githubusercontent.com/JustInPaper/neomloader-bin/main/libNeoMLoader.so",
-    "sha256": "9c9b053baf94865c432a22430caab24506e1435c3234c591011b8dc6e7ceeaab",
-    "size": 9319496
+    "sha256": "6e384d8be3f9b88d7a6360d4904625cfdfc5ca986e40f71928e0d348b1e99e09",
+    "size": 9319360
   },
   "libstd": {
     "version": "1.0.2",

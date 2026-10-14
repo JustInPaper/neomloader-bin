@@ -1,24 +1,16 @@
 {
-  "version": "1.0.38",
-  "build_number": 138,
-  "commit_sha": "8fbdb32f48edf7ac787539ae3b0272ab69071fe1",
-  "updated_at": "2026-10-13T08:12:25.035879+00:00",
+  "version": "1.0.39",
+  "build_number": 139,
+  "commit_sha": "02a429216a02c09797028d386e53b559721d2061",
+  "updated_at": "2026-10-14T00:51:13.933811+00:00",
   "binary": {
     "url": "https://raw.githubusercontent.com/JustInPaper/neomloader-bin/main/libNeoMLoader.so",
-    "sha256": "b2d7720eefd8bd63caef70212bbf73e2e6dfa436549fbd3439ad384721b46def",
-    "size": 9368408
+    "sha256": "7a48ad1251329561df0e740ecea2d75959a17460cb85e47c11d130f7f4fb1e9f",
+    "size": 9370392
   },
   "libstd": {
     "version": "1.0.2",
     "zip_url": "https://github.com/neomloader/libstd/archive/refs/heads/main.zip"
   },
-  "changelog": "Fix SIGSEGV crash caused by sector grid corruption in money sync",
-  "apk": {
-    "version": "v17.8.9",
-    "version_code": 1789,
-    "build_number": 138,
-    "url": "https://media.githubusercontent.com/media/JustInPaper/neomloader-bin/main/app-arizona-neomloader-patched.apk",
-    "sha256": "e88b9e7e3be46215d4ae89cf06c0255377e661187ac0ac0b911a0887fb04d30a",
-    "size": 180932013
-  }
+  "changelog": "fix"
 }

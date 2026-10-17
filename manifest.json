@@ -1,24 +1,24 @@
 {
   "version": "1.0.41",
   "build_number": 141,
-  "commit_sha": "b2dd210e0079f2e8b8b4ad3584d270053b7ab0c0",
-  "updated_at": "2026-10-15T20:46:15.196887+00:00",
+  "commit_sha": "7f63d66937776813ae63a01ba50b30006281098e",
+  "updated_at": "2026-10-17T15:51:40.658260+00:00",
   "binary": {
     "url": "https://raw.githubusercontent.com/JustInPaper/neomloader-bin/main/libNeoMLoader.so",
-    "sha256": "dca1fe448e56e1e8e6db42948875929293867a3cc0d3d420c18e059958d62fd2",
+    "sha256": "8d9c9207e7eb59d0bad4312b0067761d5669086f4a9142cdce333951a6f0d5c8",
     "size": 9384456
   },
   "libstd": {
     "version": "1.0.2",
     "zip_url": "https://github.com/neomloader/libstd/archive/refs/heads/main.zip"
   },
-  "changelog": "FIX",
+  "changelog": "Implement custom Firebase project from google-services.json",
   "apk": {
     "version": "v17.8.9",
     "version_code": 1789,
     "build_number": 141,
     "url": "https://media.githubusercontent.com/media/JustInPaper/neomloader-bin/main/app-arizona-neomloader-patched.apk",
-    "sha256": "e0e2c3063bfc2adf755db598b5885a854f04937c97c39a361c0bb3cce37655d2",
-    "size": 180944301
+    "sha256": "471c624ada3ec980dade32a69889532fd97a90e25b0d18611ac928d97a113337",
+    "size": 180944385
   }
 }

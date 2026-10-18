@@ -1,18 +1,18 @@
 {
-  "version": "1.0.42",
-  "build_number": 142,
-  "commit_sha": "8636f2e50fdf14251203e8195d3b2933a39ddbf1",
-  "updated_at": "2026-10-17T16:22:35.977715+00:00",
+  "version": "1.0.43",
+  "build_number": 143,
+  "commit_sha": "c3185fd4536c57f43208bd3ed08a63a8e4adbc93",
+  "updated_at": "2026-10-18T00:49:56.148993+00:00",
   "binary": {
     "url": "https://raw.githubusercontent.com/JustInPaper/neomloader-bin/main/libNeoMLoader.so",
-    "sha256": "bffc037715a0a3e97d40a04aaac706b20de12e51c00774d8375fd80aa5b116c7",
-    "size": 9384456
+    "sha256": "d561007c9695663fb31d5c7703b2b043beb302e0b581c9e1e18cb4df25eb6f06",
+    "size": 9354392
   },
   "libstd": {
     "version": "1.0.2",
     "zip_url": "https://github.com/neomloader/libstd/archive/refs/heads/main.zip"
   },
-  "changelog": "feat: enrich Firebase Crashlytics reports with detailed crash diagnostics",
+  "changelog": "Fix",
   "apk": {
     "version": "v17.8.9",
     "version_code": 1789,

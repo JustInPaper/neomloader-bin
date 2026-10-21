@@ -1,18 +1,18 @@
 {
-  "version": "1.0.48",
-  "build_number": 149,
-  "commit_sha": "550bb426f75251baed3cf1f82039262c869f3428",
-  "updated_at": "2026-10-21T03:46:22.387367+00:00",
+  "version": "1.0.49",
+  "build_number": 150,
+  "commit_sha": "18db8169d0ef9cbc6b93feea1c34b2c5f89a67c1",
+  "updated_at": "2026-10-21T04:03:02.395913+00:00",
   "binary": {
     "url": "https://raw.githubusercontent.com/JustInPaper/neomloader-bin/main/libNeoMLoader.so",
-    "sha256": "3d8341c2c5b4945934dabd9e300cdc297a87eabebce5b1bc4bc476993d1fb427",
+    "sha256": "1a9d516f68d3db800aa4cd805804340697be4937def1f23305fd72d0c30f02d0",
     "size": 11529168
   },
   "libstd": {
     "version": "1.0.2",
     "zip_url": "https://github.com/neomloader/libstd/archive/refs/heads/main.zip"
   },
-  "changelog": "Fix",
+  "changelog": "Fix aiming sensitivity & custom client version setting",
   "apk": {
     "version": "1.0.47",
     "version_code": 1800,

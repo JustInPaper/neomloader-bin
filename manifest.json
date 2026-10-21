@@ -1,24 +1,24 @@
 {
-  "version": "1.0.44",
-  "build_number": 144,
-  "commit_sha": "76cca6184cfea17329cf58850b47c1dbadd1c53c",
-  "updated_at": "2026-10-18T02:20:11.292599+00:00",
+  "version": "1.0.46",
+  "build_number": 146,
+  "commit_sha": "a89c7701a8ca8e3932a8fa5b9574120d7420a217",
+  "updated_at": "2026-10-21T01:12:14.377370+00:00",
   "binary": {
     "url": "https://raw.githubusercontent.com/JustInPaper/neomloader-bin/main/libNeoMLoader.so",
-    "sha256": "0da2f2eb97eb2377920b145a7e10044d59c2e58ebfa4202803f231a647fd18b0",
-    "size": 9576680
+    "sha256": "63db3fd44bfab65ab93f9d4c6a3bade8a220e6b5c4ed2881225745d6ff43ff5d",
+    "size": 9369432
   },
   "libstd": {
     "version": "1.0.2",
     "zip_url": "https://github.com/neomloader/libstd/archive/refs/heads/main.zip"
   },
-  "changelog": "FIX",
+  "changelog": "Rebrand to Neom Loader, fix 3D aspect ratio projection and SAMP v2 offsets",
   "apk": {
     "version": "v17.8.9",
     "version_code": 1789,
-    "build_number": 141,
+    "build_number": 144,
     "url": "https://media.githubusercontent.com/media/JustInPaper/neomloader-bin/main/app-arizona-neomloader-patched.apk",
-    "sha256": "860b7642d9bffe17f5df762f030c917136d5606ae7cc4a2ae6f89ac49ccc130a",
-    "size": 180944385
+    "sha256": "4429ff470d5edefcfa73be960621fe86d281f69fe37d53f0e608229bf9558cbe",
+    "size": 181292468
   }
 }

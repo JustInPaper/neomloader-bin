@@ -1,24 +1,24 @@
 {
-  "version": "1.0.60",
-  "build_number": 160,
-  "commit_sha": "98fff137202fa0b39ecca482c16b567b71f9cb1e",
-  "updated_at": "2026-10-27T18:32:42.477726+00:00",
+  "version": "1.0.61",
+  "build_number": 161,
+  "commit_sha": "152e3b6aabb2091a22952d9c72c89cf19179e4c0",
+  "updated_at": "2026-10-27T20:33:37.376901+00:00",
   "binary": {
     "url": "https://raw.githubusercontent.com/JustInPaper/neomloader-bin/main/libNeoMLoader.so",
-    "sha256": "fbb8bb86edf3047595f3a5126876930fa15cf1707c5053118e7a2952eb7a7a46",
-    "size": 11585072
+    "sha256": "4e692c5eee465d9d93d55819dabf90a0700740eb6233d35bafc4994e596d1370",
+    "size": 11584256
   },
   "libstd": {
     "version": "1.0.2",
     "zip_url": "https://github.com/neomloader/libstd/archive/refs/heads/main.zip"
   },
-  "changelog": "fix",
+  "changelog": "test",
   "apk": {
     "version": "1.0.47",
     "version_code": 1800,
-    "build_number": 160,
+    "build_number": 161,
     "url": "https://media.githubusercontent.com/media/JustInPaper/neomloader-bin/main/app-arizona-neomloader-patched.apk",
-    "sha256": "8e3a884b84b257e5c7e4e3a98ad48034337c9ccdc88b536cbedee1afbb9bcfc1",
-    "size": 181743028
+    "sha256": "61fb3f3062de4e50a7aef831db59ca6cdc6cc2b5c97eda1e8f228509a892dabf",
+    "size": 181747124
   }
 }

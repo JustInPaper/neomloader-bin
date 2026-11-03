@@ -1,7 +1,7 @@
 {
-  "version": "1.0.64",
-  "build_number": 164,
-  "sha256": "b6512a9d32fac535d3666f1b1dbe47f34642df662f082b9fc9c25d23e393b015",
-  "size": 11945072,
-  "updated_at": "2026-11-03T18:59:43.449384+00:00"
+  "version": "1.0.65",
+  "build_number": 165,
+  "sha256": "78e1f7e351abab89ef1a75975ad5c2f8e12357135d5119cc047d42685bbe58e9",
+  "size": 11945200,
+  "updated_at": "2026-11-03T19:31:43.399735+00:00"
 }

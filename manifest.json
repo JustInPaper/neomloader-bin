@@ -1,24 +1,24 @@
 {
-  "version": "1.0.72",
-  "build_number": 172,
-  "commit_sha": "6b7c1bfa3e78feefc8011024eeec2fa8052eb3dc",
-  "updated_at": "2026-11-14T20:49:41.935553+00:00",
+  "version": "1.0.73",
+  "build_number": 173,
+  "commit_sha": "4fafff6b0b87a9d58fc50b06a8421c766f045035",
+  "updated_at": "2026-11-22T03:22:33.091520+00:00",
   "binary": {
     "url": "https://raw.githubusercontent.com/JustInPaper/neomloader-bin/main/libNeoMLoader.so",
-    "sha256": "239ab9eb2f73d7f32bc30eb36409df98635b033d2a37e1d1cf8e7ccd74eb87da",
-    "size": 11436144
+    "sha256": "18d249b112cdf7e723a45865013f7eaf8f23c22e79777a9be484b9f23cfbd3e2",
+    "size": 11491296
   },
   "libstd": {
     "version": "1.0.2",
     "zip_url": "https://github.com/neomloader/libstd/archive/refs/heads/main.zip"
   },
-  "changelog": "test",
+  "changelog": "Optimize high-frequency network packet logging, suppress debug logs, and fix player money offset",
   "apk": {
     "version": "v17.9.9",
     "version_code": 1800,
-    "build_number": 171,
+    "build_number": 173,
     "url": "https://media.githubusercontent.com/media/JustInPaper/neomloader-bin/main/app-arizona-neomloader-patched.apk",
-    "sha256": "507af45aa9c5cf9caa44137ca23c510fd5e3c1599d3ee3fa7b0f49c0cad7b2de",
-    "size": 220992239
+    "sha256": "820d8811f7e45600be3d625a9e30c093511b307ad0f11b2bccad2333c6bd4d53",
+    "size": 221016815
   }
 }
